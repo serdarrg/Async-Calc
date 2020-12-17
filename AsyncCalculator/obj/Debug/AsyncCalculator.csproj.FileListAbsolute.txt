@@ -1,0 +1,7 @@
+C:\Users\serda\source\repos\AsyncCalculator\AsyncCalculator\bin\Debug\AsyncCalculator.exe.config
+C:\Users\serda\source\repos\AsyncCalculator\AsyncCalculator\bin\Debug\AsyncCalculator.exe
+C:\Users\serda\source\repos\AsyncCalculator\AsyncCalculator\bin\Debug\AsyncCalculator.pdb
+C:\Users\serda\source\repos\AsyncCalculator\AsyncCalculator\obj\Debug\AsyncCalculator.csprojAssemblyReference.cache
+C:\Users\serda\source\repos\AsyncCalculator\AsyncCalculator\obj\Debug\AsyncCalculator.csproj.CoreCompileInputs.cache
+C:\Users\serda\source\repos\AsyncCalculator\AsyncCalculator\obj\Debug\AsyncCalculator.exe
+C:\Users\serda\source\repos\AsyncCalculator\AsyncCalculator\obj\Debug\AsyncCalculator.pdb
